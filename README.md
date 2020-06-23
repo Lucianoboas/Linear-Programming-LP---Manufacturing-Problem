@@ -1,2 +1,2 @@
-# LP-Problem
+# Linear Programming - Manufacturing Problem
 Linear Programming Problems
