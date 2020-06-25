@@ -1,5 +1,5 @@
 # Linear Programming - Manufacturing Problem
 
-# Here is the link for the article I wrote regarding this subject:
+# Here is the link for the article I wrote regarding this subject on Towards Data Science:
 
-#https://medium.com/@lucianovilasboas_69787/maximizing-profit-using-linear-programming-in-python-642520c43f6
+# https://towardsdatascience.com/maximizing-profit-using-linear-programming-in-python-642520c43f6
